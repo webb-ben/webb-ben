@@ -3,8 +3,8 @@
 - 👨🏻‍💻 My name is Ben.
 - ⚙️ I find myself working on open source software. 
 - 🌱 I’m currently learning a lot of things!
-- 📍 From [Boulder, Colorado](https://river-runner-global.samlearner.com/?lng=-105.27&lat=40.01), living in [Washington, DC](https://geoconnex.us/ref/hu10/0207001001).
-- 💬 Believe it or not, the first emoji is actually a picture of me working on open source software.
+- 📍 From [Boulder, Colorado](https://river-runner.geoconnex.us/?lng=-105.27&lat=40.01), living in [Washington, DC](https://geoconnex.us/ref/hu10/0207001001).
+- 💬 Believe it or not, the first emoji is actually a picture of me working.
 
 
 [![My GitHub Status](https://github-readme-stats.vercel.app/api?username=webb-ben&show_icons=true&hide_border=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/webb-ben/github-readme-stats#gh-dark-mode-only)
