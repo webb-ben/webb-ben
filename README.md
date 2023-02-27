@@ -4,6 +4,7 @@
 - ⚙️ I find myself working on open source software. 
 - 🌱 I’m currently learning a lot of things!
 - 📍 From [Boulder, Colorado](https://river-runner.geoconnex.us/?lng=-105.27&lat=40.01), living in [Washington, DC](https://geoconnex.us/ref/hu10/0207001001).
+- 💃 I am a classically trained [dancer](https://youtu.be/-00uIFUKtrE) and [choreographer](https://youtu.be/Xs55n1DMIUM).
 - 💬 Believe it or not, the first emoji is actually a picture of me working.
 
 
