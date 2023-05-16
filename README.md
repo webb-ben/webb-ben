@@ -3,7 +3,7 @@
 - 👨🏻‍💻 My name is Ben.
 - ⚙️ I find myself working on open source software. 
 - 🌱 I’m currently learning a lot of things!
-- 📍 From [Boulder, Colorado](https://river-runner.geoconnex.us/?lng=-105.27&lat=40.01), living in [Washington, DC](https://geoconnex.us/ref/hu10/0207001001).
+- 📍 From [Boulder, Colorado](https://river-runner.geoconnex.us/?lng=-105.27&lat=40.01), living in [Washington, DC]([https://geoconnex.us/ref/hu10/0207001001](https://gis.cgs.earth/portal/apps/webappviewer/index.html?id=41e8676b373344dfab9733b4d8f32837&marker=-77.03866506139542%2C38.93067526371458%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22WASHINGTON%20AQUEDUCT%20DIVISION.%22%2C%22longitude%22%3A-77.03866506139542%2C%22latitude%22%3A38.93067526371458%2C%22isIncludeShareUrl%22%3Atrue%7D&level=13)).
 - 💃 I am a classically trained [dancer](https://youtu.be/-00uIFUKtrE) and [choreographer](https://youtu.be/Xs55n1DMIUM).
 - 💬 Believe it or not, the first emoji is actually a picture of me working.
 
