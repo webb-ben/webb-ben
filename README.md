@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 My name is Ben Webb. 
 - ⚙️ I find myself working on open source software. 
-- 🌱 I am currently learning a lot of things.
+- 🌱 I am learning a lot of things.
 - 📍 I grew up in [Boulder, Colorado](https://river-runner.geoconnex.us/?lng=-105.27&lat=40.01), currently living in [Washington, DC](https://gis.cgs.earth/portal/apps/webappviewer/index.html?id=41e8676b373344dfab9733b4d8f32837&marker=-77.03866506139542%2C38.93067526371458%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22WASHINGTON%20AQUEDUCT%20DIVISION.%22%2C%22longitude%22%3A-77.03866506139542%2C%22latitude%22%3A38.93067526371458%2C%22isIncludeShareUrl%22%3Atrue%7D&level=13).
 - 💻 Some of the open-source projects I contribute to are: [pygeoapi](http://pygeoapi.io/), [wis2box](https://docs.wis2box.wis.wmo.int/en/latest/), [geoconnex.us](https://geoconnex.us/), and [Hydro Network-Linked Data Index](https://waterdata.usgs.gov/blog/nldi-intro/).
 - 💡 Learn more about me at [benwebb.com](https://benwebb.com/).
