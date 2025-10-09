@@ -1,6 +1,6 @@
 ## Howdy partner 👋🏻
 
-- 👨🏻‍💻 My name is Ben Webb. 
+- 👨🏻‍💻 My name is Ben. 
 - ⚙️ I find myself working on open source software. 
 - 📚 I am learning a lot of things.
 - 🌱 My favorite plant is [_sedum dasyphyllum_ 'Himalayan Skies'](https://www.google.com/search?q=sedum+dasyphyllum+%27Himalayan+Skies%27).
